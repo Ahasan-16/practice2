@@ -46,3 +46,9 @@ button{
     background-color: aqua;
     color:black;
  }
+ div{
+    border: 2px solid black;
+    background-color: aqua;
+    height: 200px;
+    margin-bottom: 2px;
+ }
